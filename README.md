@@ -27,7 +27,7 @@ Make a folder with your name (and maybe a HTML file inside) and commit to this r
 
 
 
-## Installing Github
+## Installing Git
 
 Install "Git" [here](https://git-scm.com/downloads).
 
